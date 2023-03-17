@@ -1,0 +1,59 @@
+* {
+  margin: 15px auto 10px;
+  max-width: 300px;
+}
+
+h1 {
+  font-size: 50px;
+  color: blue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+.email {
+  width: 100%;
+  height: 40px;
+}
+.pass {
+  width: 100%;
+  height: 40px;
+}
+.first {
+  font-size: 20px;
+  border-bottom-right-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  border-top-left-radius: 7px;
+  width: 100%;
+  height: 40px;
+  background-color: blue;
+  color: white;
+}
+.forgot {
+  display: flex;
+  justify-content: space-between;
+}
+.create {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  font-size: 19px;
+  border-bottom-right-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  border-top-left-radius: 7px;
+  width: 60%;
+  height: 40px;
+  background-color: rgb(45, 243, 45);
+  color: white;
+}
+.last {
+  display: flex;
+  justify-content: space-between;
+}
+.forgot1 {
+  display: flex;
+  justify-content: space-between;
+}
